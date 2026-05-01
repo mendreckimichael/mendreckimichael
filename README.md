@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi I'm Michael   
+<a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Visit my LinkedIn profile" >
+</a>
 
-<!--
-**mendreckimichael/mendreckimichael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This portfolio documents my journey into cybersecurity through hands‑on labs, defensive tooling, and more exercises. 
 
-Here are some ideas to get you started:
+## Goal  
+My current goal is to complete my Security+ certification, ensuring that I build a strong foundation in cybersecurity while also demonstrating practical, job‑ready skills. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
